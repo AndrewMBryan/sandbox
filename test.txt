@@ -1,4 +1,4 @@
 
 Line 1: Message
-Line 2: Sample Text
+Line 2: A way better and improved sample Text
 Line 3: yet another line
